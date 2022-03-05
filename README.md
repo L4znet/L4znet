@@ -13,7 +13,7 @@
 
 - 📫 Vous pouvez me contacter par email **charly.escalona1@gmail.com**
 
-<h3 align="left">Mon Twitter</h3>
+<h3 align="left">Vous pouvez me contacter sur Twitter</h3>
 <p align="left">
 <a href="https://twitter.com/escalona_charly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="escalona_charly" height="30" width="40" /></a>
 </p>

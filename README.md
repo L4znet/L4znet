@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/escalona_charly" target="blank"><img src="https://img.shields.io/twitter/follow/escalona_charly?logo=twitter&style=for-the-badge" alt="escalona_charly" /></a> </p>
 
-- 🌱 J'apprends **React Native à Ynov Nantes**
+- 👨‍💻 Retrouvez mes projets sur mon Github / [Mon site](https://www.charly-e.com)
 
-- 👨‍💻 Retrouvez mes projets sur mon Github / Mon site : [https://www.charly-e.com](https://www.charly-e.com)
-
-- 📝 J'écris des trucs sur Medium [https://medium.com/@charly.escalona1](https://medium.com/@charly.escalona1)
+- 📝 J'écris des trucs sur [Medium](https://medium.com/@charly-e)
 
 - 💬 On pourrait résumer mon profil par : **VueJS, PHP, Laravel**
 

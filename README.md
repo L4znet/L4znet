@@ -7,8 +7,6 @@
 
 - 📝 J'écris des trucs sur [Medium](https://medium.com/@charly-e)
 
-- 💬 On pourrait résumer mon profil par : **VueJS, PHP, Laravel**
-
 - 📫 Vous pouvez me contacter par email **charly.escalona1@gmail.com**
 
 <h3 align="left">Vous pouvez me contacter sur Twitter</h3>

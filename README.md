@@ -9,7 +9,7 @@
 
 - 📫 Vous pouvez me contacter par email **charly.escalona1@gmail.com**
 
-<p align="right"><a href="https://app.daily.dev/Laznet"><img src="https://api.daily.dev/devcards/5d9e4ac4d63441f5bb3649bb90f9f8ca.png?r=6ol" width="200" alt="Charly's Dev Card"/></a></p>
+<a href="https://app.daily.dev/Laznet"><img src="https://github.com/l4znet/l4znet/blob/main/devcard.svg" width="400" alt="Charly's Dev Card"/></a>
 
 <h3 align="left">Vous pouvez me contacter sur Twitter</h3>
 <p align="left">

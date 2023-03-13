@@ -1,7 +1,7 @@
 <h1 align="center">Hello, moi c'est Charly</h1>
 <h3 align="center">Développeur Web Fullstack & Mobile</h3>
 
-<p align="left"> <a href="https://twitter.com/escalona_charly" target="blank"><img src="https://img.shields.io/twitter/follow/escalona_charly?logo=twitter&style=for-the-badge" alt="escalona_charly" /></a> </p>
+<p align="left"> <a href="https://twitter.com/l4znet" target="blank"><img src="https://img.shields.io/twitter/follow/escalona_charly?logo=twitter&style=for-the-badge" alt="escalona_charly" /></a> </p>
 
 - 👨‍💻 Retrouvez mes projets sur mon Github / [Mon site](https://www.charly-e.com)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Vous pouvez me contacter sur Twitter</h3>
 <p align="left">
-<a href="https://twitter.com/escalona_charly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="escalona_charly" height="30" width="40" /></a>
+<a href="https://twitter.com/l4znet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="escalona_charly" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Les technos / outils que j'ai déjà utilisé ou que je connais</h3>

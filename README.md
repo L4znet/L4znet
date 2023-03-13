@@ -1,7 +1,7 @@
 <h1 align="center">Hello, moi c'est Charly</h1>
 <h3 align="center">Développeur Web Fullstack & Mobile</h3>
 
-<p align="left"> <a href="https://twitter.com/l4znet" target="blank"><img src="https://img.shields.io/twitter/follow/escalona_charly?logo=twitter&style=for-the-badge" alt="escalona_charly" /></a> </p>
+<p align="left"> <a href="https://twitter.com/l4znet" target="blank"><img src="https://img.shields.io/twitter/follow/CharlyEscalona?logo=twitter&style=for-the-badge" alt="l4znet" /></a> </p>
 
 - 👨‍💻 Retrouvez mes projets sur mon Github / [Mon site](https://www.charly-e.com)
 

@@ -17,7 +17,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=l4znet&show_icons=true&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="l4znet" /></p>
 
 
-
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=catppuccin_mocha" alt="My Tech Stack" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />

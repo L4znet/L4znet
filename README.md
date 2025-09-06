@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/l4znet" target="blank"><img src="https://img.shields.io/twitter/follow/l4znet?logo=twitter&style=for-the-badge" alt="l4znet" /></a> </p>
 
-- 👨‍💻 Retrouvez mes projets sur mon Github / [Mon site](https://www.charly-e.com)
-
-- 📝 J'écris des trucs sur [Medium](https://medium.com/@charly-e)
-
 - 📫 Vous pouvez me contacter par email **charly.escalona1@gmail.com**
 
 <a href="https://app.daily.dev/laznet"><img src="https://api.daily.dev/devcards/v2/Zgu6quJNxJ2GIqTGpdk63.png?r=uft&type=wide" width="652" alt="Charly's Dev Card"/></a>
